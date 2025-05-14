@@ -1,21 +1,21 @@
 [submodule "core"]
 	path = core
-	url = ../onlyOffice-core.git
+	url = https://github.com/lzbgithubcode/onlyOffice-core.git
 [submodule "core-fonts"]
 	path = core-fonts
 	url = https://github.com/ONLYOFFICE/core-fonts.git
 [submodule "dictionaries"]
 	path = dictionaries
-	url = ../onlyOffice-dictionaries.git
+	url = https://github.com/lzbgithubcode/onlyOffice-dictionaries.git
 [submodule "sdkjs"]
 	path = sdkjs
-	url = ../onlyOffice-sdkjs.git
+	url = https://github.com/lzbgithubcode/onlyOffice-sdkjs.git
 [submodule "server"]
 	path = server
-	url = ../onlyOffice-server.git
+	url = https://github.com/lzbgithubcode/onlyOffice-server.git
 [submodule "web-apps"]
 	path = web-apps
-	url = ../onlyOffice-web-apps.git
+	url = https://github.com/lzbgithubcode/onlyOffice-web-apps.git
 [submodule "sdkjs-plugins/plugin-highlightcode"]
 	path = sdkjs-plugins/plugin-highlightcode
 	url = https://github.com/ONLYOFFICE/plugin-highlightcode
